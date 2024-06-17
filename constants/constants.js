@@ -1,6 +1,6 @@
 export const NAME = 'Aditya Gund';
 
-export const DESIGNATION = `Software Engineer | Ex- Persistent Systems | Java | C++ | Microservices | Open to new Opportunities`;
+export const DESIGNATION = `Software Engineer | Ex- Persistent Systems | Java | Microservices | Open to new Opportunities`;
 
 export const DETAILS = {
   Residence: 'India',
@@ -32,25 +32,18 @@ export const SKILLS = [
 ];
 
 export const TECH_STACK = [
-  'JavaScript',
-  'ReactJS',
-  'NextJS',
-  'NodeJS',
-  'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
-  'REST API',
-  'MongoDB',
-  'MySQL',
-  'Git',
-  'GitHub',
-  'Jira',
-  'Spring Boot',
-  'Java',
-  'C++'
+ 'Java',
+ 'C++',
+ 'Object Oriented Design',
+ 'Low Level Design',
+ 'Spring Boot',
+ 'React.js',
+ 'Next.js',
+ 'Javascript',
+ 'SQL',
+ 'MongoDB',
+ 'Git',
+ 'Agile Methodologies'
 ];
 
 export const CONTACTS = {

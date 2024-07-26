@@ -13,7 +13,7 @@ const background = [
                 title: 'Narayana Junio College, Hyderabad',
                 degree: 'HSC, Pre Engineering',
                 detail: "Completed intermediate in Physics, Chemistry and Maths",
-                year: '2015-2017'
+                year: '2016-2018'
             },
         ]
     },
@@ -30,6 +30,15 @@ const background = [
             },
             {
                 id: 2,
+                title: 'Persistent Systems',
+                role: 'Software Engineer',
+                url: 'https://www.persistent.com/',
+                desc: 'At Persistent Systems, I developed Java automation scripts to streamline feature integration, implemented SSO for improved login efficiency, optimized JSON data structures and Maven dependencies for better application performance, resolved critical production issues, and collaborated with cross-functional teams to successfully resolve complex development configuration tickets, ensuring timely project completion and enhanced web services availability.',
+                year: '06/2022 - 10/2023',
+                location: 'Pune, India'
+            },
+            {
+                id: 3,
                 title: 'Vedam Labs',
                 role: 'Intern',
                 url: 'https://www.vedamlab.com/',

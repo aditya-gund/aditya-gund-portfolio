@@ -1,6 +1,6 @@
 export const NAME = 'Aditya Gund';
 
-export const DESIGNATION = `Software Engineer | Ex- Persistent Systems | Java | Microservices | Open to new Opportunities`;
+export const DESIGNATION = `SDE 2 at QuantaSip | Actively Seeking Software Engineer Opportunities | Proficient in DSA & System Design`;
 
 export const DETAILS = {
   Residence: 'India',
@@ -15,7 +15,7 @@ export const SKILLS = [
   },
   {
     title: 'Spring Boot',
-    level: '91%',
+    level: '80%',
   },
   {
     title: 'Data Structures & Algorithms',
@@ -27,21 +27,20 @@ export const SKILLS = [
   },
   {
     title: 'System Design',
-    level: '53%',
+    level: '70%',
   },
 ];
 
 export const TECH_STACK = [
  'Java',
- 'C++',
  'Object Oriented Design',
  'Low Level Design',
  'Spring Boot',
- 'React.js',
- 'Next.js',
+ 'Angular',
  'Javascript',
  'SQL',
  'MongoDB',
+ 'PostgresSQL',
  'Git',
  'Agile Methodologies'
 ];

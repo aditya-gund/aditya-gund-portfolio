@@ -18,7 +18,7 @@ const Intro = () => {
         <Image className='w-20 h-20 rounded-full mt-7' src={Osama} alt='profile picture' />
         <div className='flex flex-col items-center justify-center'>
           <span className='text-gray-300 text-base font-bold break-normal'>{NAME}</span>
-          <span className='text-sm text-LightGray text-center mt-2 '>{DESIGNATION}</span>
+          <span className='text-sm text-LightGray text-center mt-2 mb-4'>{DESIGNATION}</span>
         </div>
       </div>
 
@@ -37,12 +37,6 @@ const Intro = () => {
         <Link href={SOCIAL_LINKS.GITHUB} target='_blank' rel='noreferrer' className=''>
           <FaGithub />
         </Link>
-        {/* <Link href={SOCIAL_LINKS.TWITTER} target='_blank' rel='noreferrer' className=''>
-          <FaTwitter />
-        </Link> */}
-        {/* <Link href={SOCIAL_LINKS.FACEBOOK} target='_blank' rel='noreferrer' className=''>
-          <FaFacebook />
-        </Link> */}
         <Link href={SOCIAL_LINKS.LINKEDIN} target='_blank' rel='noreferrer' className=''>
           <FaLinkedin />
         </Link>
